@@ -14,7 +14,7 @@ const products = [
 	{
 		id: 2,
 		name: 'MacBook Pro',
-		price: 24.99,
+		price: 124.99,
 		instock: 4,
 		date: 'April, 11, 2021',
 		comment: 62,
@@ -26,7 +26,7 @@ const products = [
 	{
 		id: 3,
 		name: 'iPad Pro',
-		price: 19.99,
+		price: 369.99,
 		instock: 5,
 		date: 'May, 20, 2020',
 		comment: 152,
@@ -36,7 +36,7 @@ const products = [
 	{
 		id: 4,
 		name: 'iPhone 14',
-		price: 25.99,
+		price: 825.99,
 		instock: 6,
 		date: 'July, 19, 2022',
 		comment: 72,
@@ -45,8 +45,8 @@ const products = [
 	},
 	{
 		id: 5,
-		name: 'Watch',
-		price: 29.99,
+		name: 'Watch Series 8',
+		price: 129.99,
 		instock: 4,
 		date: 'March, 08, 2021',
 		comment: 82,
@@ -56,7 +56,7 @@ const products = [
 	{
 		id: 6,
 		name: 'Mac',
-		price: 39.99,
+		price: 439.99,
 		instock: 8,
 		date: 'November, 15 2022',
 		comment: 52,
@@ -65,8 +65,8 @@ const products = [
 	},
 	{
 		id: 7,
-		name: 'Mac',
-		price: 39.99,
+		name: 'iPad Pro 12 inch',
+		price: 379.99,
 		instock: 8,
 		date: 'December, 30, 2022',
 		comment: 12,
@@ -76,7 +76,7 @@ const products = [
 	{
 		id: 8,
 		name: 'Air Pods Max',
-		price: 39.99,
+		price: 159.99,
 		instock: 8,
 		date: 'January, 05 2023',
 		comment: 33,
