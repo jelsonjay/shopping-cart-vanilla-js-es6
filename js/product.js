@@ -31,7 +31,7 @@ const products = [
 		date: 'May, 20, 2020',
 		comment: 152,
 		category: 'iPad',
-		imgSrc: './images/iPad-pro-11-inch.png'
+		imgSrc: './images/ipad-pro-.jpg'
 	},
 	{
 		id: 4,
